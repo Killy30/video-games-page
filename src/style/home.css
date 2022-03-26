@@ -1,0 +1,29 @@
+
+
+.container{
+    margin-top: 120px;
+}
+
+.searchBar{
+    /* border-bottom: 2px solid #081226; */
+    padding-bottom: 7px;
+}
+.inpSearch{
+    background-color: #081226;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    padding: 5px 20px;
+    width: 300px;
+}
+
+select{
+    background-color: #081226;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+
+}

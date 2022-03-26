@@ -1,0 +1,15 @@
+
+body{
+    background-color: #1A2E40;
+}
+
+.header_xbw{
+    background-color: #081226;
+    color: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100%;
+}
+/* ""nav-link text-light"" */

@@ -1,0 +1,34 @@
+
+
+.card{
+    background-color: #081226;
+    border-radius: 10px;
+    overflow: hidden;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.card:hover{
+    border: 1px solid #ffff;
+    transition: 0.3s;
+}
+
+.card_img{
+    height: 300px;
+
+}
+.img_xbw{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card-body{
+    height: 150px;
+}
+.card-title{
+    color: #ffff;
+}
+p{
+    color: #97aace;
+    font-size: 15px;
+}
